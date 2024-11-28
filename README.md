@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Gen AI projects**
 
-- 🌱 I’m currently learning/Studying **Data Science & Machine Learning**
+- 🌱 I’m did my Masters in **Data Science & Machine Learning from PES UNIVERSITY**
 
 - 💬 Ask me about **Anything related to Data Science**
 
